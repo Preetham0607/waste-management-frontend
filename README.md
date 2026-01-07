@@ -2,6 +2,70 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+♻️ Waste Management System – Frontend
+📌 Project Overview
+
+The Waste Management System is a web-based application designed to streamline the process of waste collection and complaint management. It allows citizens to raise waste-related complaints, volunteers to resolve them, and administrators to monitor and manage the overall system efficiently.
+
+This repository contains the frontend of the application developed using React.js.
+
+🛠️ Technologies Used
+
+Frontend: React.js
+
+Routing: React Router DOM
+
+HTTP Client: Axios
+
+Styling: Bootstrap / CSS
+
+Version Control: Git & GitHub
+
+👥 User Roles
+
+Admin
+
+Manage areas
+
+View and monitor complaints
+
+Assign volunteers
+
+Citizen
+
+Register & login
+
+Raise waste complaints
+
+Track complaint status
+
+Volunteer
+
+View assigned complaints
+
+Update complaint status (Resolved / Pending)
+
+⚙️ Installation & Setup
+
+1️⃣ Clone the repository:
+
+git clone https://github.com/Preetham0607/waste-management-frontend.git
+
+
+2️⃣ Navigate to project folder:
+
+cd waste-management-frontend
+
+
+3️⃣ Install dependencies:
+
+npm install
+
+
+4️⃣ Run the application:
+
+npm start
+
 ## Available Scripts
 
 In the project directory, you can run:

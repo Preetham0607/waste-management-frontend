@@ -61,4 +61,3 @@ The frontend communicates with a Spring Boot backend using RESTful APIs. Axios i
 This project is developed for educational purposes.
 
 
-Backend URL:
